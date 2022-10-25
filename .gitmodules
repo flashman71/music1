@@ -1,0 +1,3 @@
+[submodule "musicdb"]
+	path = musicdb
+	url = https://github.com/flashman71/musicdb1.git
